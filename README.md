@@ -10,7 +10,7 @@ Purchase link :
 https://www.shopcom.tn/product/quran-mp3-complete/
 
 Payment :
-https://www.shopcom.tn/payment
+https://www.shopcom.tn/payments
 
 Website :
 https://www.shopcom.tn
